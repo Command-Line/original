@@ -1,8 +1,8 @@
 @echo off
 cls
-title Command Line (CL)
+title The Command Line (CL)
 
-echo Command Line (CL)
+echo The Command Line (CL)
 echo (C) Copyright 2014-present Suriyaa Kudo
 echo.
 
